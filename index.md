@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP security busters
 tags: example-tag
 level: 4
+type: documentation
 
 ---
 
