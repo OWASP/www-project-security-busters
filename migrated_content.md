@@ -66,7 +66,7 @@ type: documentation
 <p><a href="https://github.com/SamanthaGroves">Slide Presentation</a></p>
 <p><a href="https://github.com/SamanthaGroves">Video</a></p>
 <h2 id="project_leader">Project Leader</h2>
-<p><span style="color:#ffffff"> <a href="mailto://shruti.kulkarni@owasp.org">Shruti Kulkarni</a></p>
+<p><span style="color:#ffffff"> <a href="mailto://varunkulkarni1@icloud.com">Varun Kulkarni</a></p>
 <p><a href="mailto://stefano.belloro@gmail.com">Stefano Belloro</a></p>
 <p><a href="mailto://alexios.mylonas@owasp.org">Alexios Mylonas</a></p>
 <h2 id="related_projects">Related Projects</h2>
